@@ -1,70 +1,70 @@
 ﻿[
   {
     "name": "fullmap",
-    "img": "maps/fullmap.png"
+    "img": "images/maps/fullmap.png"
   },
   {
 	  "name": "earth",
-	  "img": "maps/beneath_the_earth.png"
+	  "img": "images/maps/beneath_the_earth.png"
   },
   {
 	  "name": "well",
-	  "img": "maps/beneath_the_well.png"
+	  "img": "images/maps/beneath_the_well.png"
   },
   {
 	  "name": "cathedral",
-	  "img": "maps/cathedral.png"
+	  "img": "images/maps/cathedral.png"
   },
   {
 	  "name": "dark_tomb",
-	  "img": "maps/dark_tomb.png"
+	  "img": "images/maps/dark_tomb.png"
   },
   {
 	  "name": "eastern_vault",
-	  "img": "maps/eastern_vault.png"
+	  "img": "images/maps/eastern_vault.png"
   },
   {
 	  "name": "frogs_domain",
-	  "img": "maps/frogs_domain.png"
+	  "img": "images/maps/frogs_domain.png"
   },
   {
 	  "name": "graveyard",
-	  "img": "maps/graveyard.png"
+	  "img": "images/maps/graveyard.png"
   },
   {
 	  "name": "overworld",
-	  "img": "maps/overworld.png"
+	  "img": "images/maps/overworld.png"
   },
   {
 	  "name": "quarry",
-	  "img": "maps/quarry.png"
+	  "img": "images/maps/quarry.png"
   },
   {
 	  "name": "ruined_atoll",
-	  "img": "maps/ruined_atoll.png"
+	  "img": "images/maps/ruined_atoll.png"
   },
   {
 	  "name": "west_gardens",
-	  "img": "maps/west_gardens.png"
+	  "img": "images/maps/west_gardens.png"
   },
   {
 	  "name": "library",
-	  "img": "maps/library.png"
+	  "img": "images/maps/library.png"
   },
   {
 	  "name": "east_forest",
-	  "img": "maps/east_forest.png"
+	  "img": "images/maps/east_forest.png"
   },
   {
 	  "name": "far_shore",
-	  "img": "maps/far_shore.png"
+	  "img": "images/maps/far_shore.png"
   },
   {
 	  "name": "ziggurat",
-	  "img": "maps/ziggurat.png"
+	  "img": "images/maps/ziggurat.png"
   },
   {
 	  "name": "secrets",
-	  "img": "maps/secrets.png"
+	  "img": "images/maps/secrets.png"
   }
 ]

@@ -5,7 +5,7 @@ ScriptHost:LoadScript("scripts/settings.lua")
 print("Active Variant:")
 print(Tracker.ActiveVariantUID)
 
-Tracker:AddItems("common.json")
+Tracker:AddItems("items/common.json")
 
 if not (string.find(Tracker.ActiveVariantUID, "items_only")) then
     ScriptHost:LoadScript("scripts/logic_common.lua")
